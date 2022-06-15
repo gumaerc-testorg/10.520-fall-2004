@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on meeting
+  times and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -21,7 +23,7 @@ Course targets seniors and 1st/2nd year graduate students.
 Text
 ----
 
-No specific textbook is used for this course, but numerous topical handouts from the recent literature and other materials are provided in the [readings]({{< baseurl >}}/pages/readings) section.
+No specific textbook is used for this course, but numerous topical handouts from the recent literature and other materials are provided in the {{% resource_link 8c3f2bb0-54b9-be7e-ef0d-ee4c635ec330 "readings" %}} section.
 
 Grading
 -------
